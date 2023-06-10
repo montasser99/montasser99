@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Montasser</h1>
-<h3 align="center">A Fullstack Web Developer From Tunisia</h3>
+<h3 align="center">Fullstack Web Developer From Tunisia</h3>
 
 - 🌱 I’m currently focused on learning **web application development. I find the process of creating dynamic and interactive websites fascinating. I believe that understanding web development will provide me with a strong foundation for building engaging online experiences and open up diverse career opportunities in the tech industry.**
 
